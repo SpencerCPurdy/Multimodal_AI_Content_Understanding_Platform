@@ -1,15 +1,4 @@
----
-title: Multimodal AI Content Understanding Platform
-emoji: 🖼️
-colorFrom: gray
-colorTo: gray
-sdk: gradio
-app_file: app.py
-pinned: false
-license: mit
-short_description: Analyze and process diverse content with multimodal AI.
-sdk_version: 5.36.2
----
+Live Demo: https://huggingface.co/spaces/SpencerCPurdy/Multimodal_AI_Content_Understanding_Platform
 
 # Multimodal AI Content Understanding Platform
 
